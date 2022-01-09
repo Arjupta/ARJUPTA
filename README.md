@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Readme</title>
-    <link rel="stylesheet" href="resources/style.css">
-</head>
-<body>
+<html>
 <h1 align="center">Hello World👋! I'm Arjun 🧑🏻‍</h1>
 <p align="center">
   <img align="center"
@@ -83,27 +74,9 @@
 
 <br /><br />
 
-<!-- <div>
-</div>
-<img src="resources/Android.gif" width="150" align="left"
-  hspace="50" /><br /><br />
-
-<p align="center">
-  <b>I love connecting with different people, drop me Hi for chitchat 💬 :)</b>
-</p> -->
-
-<div id="wrapper">
-  <div class="content">
-    <p align="center">
-    <img src="resources/Android.gif" width="100" align="top" /><br /><br />
+  <p align="center">
       <b>I love connecting with different people, <br> drop me Hi for chitchat 💬 :)</b>
-    </p>
-  </div>
-  <div class="background">
-    <img src="resources/mobile.png" alt="background" />
-  </div>
+  </p>
+  <img src="resources/Footer.gif" alt="mobile" />
 </div>
-
-    
-</body>
 </html>
